@@ -59,7 +59,7 @@ Below is a snippet of the Data Analysis Sheet
 
 Data visualisation was done using pivot charts,
 
-Pivot Tables and Pivot Charts (using charts to show insights)[
+Pivot Tables and Pivot Charts [using charts to show insights](https://github.com/BhavanaMallipeddi/Road_Accident_Dashboard/blob/main/Data%20Visualisation.png)
 
 ## Recommendations based on the Analysis
 
