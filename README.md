@@ -53,7 +53,7 @@ Created a "Data Analysis" sheet to summarize all the pivot table Data for a new 
 
 Below is a snippet of the Data Analysis Sheet
 
-![Data Analysis sheet](
+![Data Analysis sheet](Data Analysis Sheet.png)
 
 ## Recommendations based on the Analysis
 
